@@ -1,0 +1,7 @@
+D:\.Net\project\SurveyBasket\SurveyBasket\SurveyBasket\obj\Debug\net8.0\SurveyBasket.csproj.AssemblyReference.cache
+D:\.Net\project\SurveyBasket\SurveyBasket\SurveyBasket\obj\Debug\net8.0\SurveyBasket.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\project\SurveyBasket\SurveyBasket\SurveyBasket\obj\Debug\net8.0\SurveyBasket.AssemblyInfoInputs.cache
+D:\.Net\project\SurveyBasket\SurveyBasket\SurveyBasket\obj\Debug\net8.0\SurveyBasket.AssemblyInfo.cs
+D:\.Net\project\SurveyBasket\SurveyBasket\SurveyBasket\obj\Debug\net8.0\SurveyBasket.csproj.CoreCompileInputs.cache
+D:\.Net\project\SurveyBasket\SurveyBasket\SurveyBasket\obj\Debug\net8.0\SurveyBasket.MvcApplicationPartsAssemblyInfo.cs
+D:\.Net\project\SurveyBasket\SurveyBasket\SurveyBasket\obj\Debug\net8.0\SurveyBasket.MvcApplicationPartsAssemblyInfo.cache
