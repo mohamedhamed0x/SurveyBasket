@@ -4,8 +4,8 @@ public sealed class ApplicationUser : IdentityUser
 {
     public ApplicationUser()
     {
-        Id = Guid.CreateVersion7().ToString();
-        SecurityStamp = Guid.CreateVersion7().ToString();
+        Id = Guid.NewGuid().ToString();
+        SecurityStamp = Guid.NewGuid().ToString();
     }
 
     public string FirstName { get; set; } = string.Empty;
